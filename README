@@ -1,6 +1,6 @@
-fsping is a utility to find hanging or slowly responding
-filesystems. By default it checks all currently mounted NFS
-filesystems with a 5 second timeout.
+fsping is a utility to find hanging or slow to respond filesystems. By
+default it checks all currently mounted NFS filesystems with a 5
+second timeout.
 
   -a, --all=false: check all filesystems types
   -d, --dev=false: show device
